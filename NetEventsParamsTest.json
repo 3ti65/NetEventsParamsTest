@@ -1,0 +1,9 @@
+{
+	"Name": "NetEventsParamsTest",
+	"Authors": ["3ti65"],
+	"Description": "Test for the serialization of frostbite types when sent over NetEvents",
+	"URL": "none",
+	"Version": 0,
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
